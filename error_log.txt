@@ -1,0 +1,4 @@
+[23-Jan-2022 19:25:59 Europe/Berlin] PHP Warning:  Undefined array key "intLine" in C:\xampp\htdocs\register-login\cart.php on line 152
+[23-Jan-2022 19:25:59 Europe/Berlin] PHP Warning:  Undefined array key "intLine" in C:\xampp\htdocs\register-login\cart.php on line 153
+[23-Jan-2022 19:25:59 Europe/Berlin] PHP Warning:  Undefined array key "strId" in C:\xampp\htdocs\register-login\cart.php on line 154
+[23-Jan-2022 19:25:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\register-login\cart.php on line 154
